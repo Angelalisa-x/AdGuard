@@ -177,7 +177,23 @@ filters:
   url: https://filters.adtidy.org/extension/chromium/filters/4.txt
   name: AdGuard Social Media filter
   id: 1587418121
-whitelist_filters: []
+whitelist_filters:
+- enabled: true
+  url: https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt
+  name: LWJ's white list
+  id: 1587735350
+- enabled: true
+  url: https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt
+  name: "2"
+  id: 1587735351
+- enabled: true
+  url: https://raw.githubusercontent.com/vokins/yhosts/master/whitelist.txt
+  name: "3"
+  id: 1587735352
+- enabled: true
+  url: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
+  name: "4"
+  id: 1587735353
 user_rules: []
 dhcp:
   enabled: false

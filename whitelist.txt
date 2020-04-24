@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt
+
+https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt
+
+https://raw.githubusercontent.com/vokins/yhosts/master/whitelist.txt
+
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
