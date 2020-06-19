@@ -1,0 +1,79 @@
+DNS封锁清单
+AdGuard Home将阻止匹配DNS拦截清单的域名
+AdGuard Home 可以解析基础的 adblock 规则和 Hosts 语法。
+
+AdGuard Simplified Domain Names filter
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+36,758
+2020年6月19日 14:02
+
+AdAway
+https://adaway.org/hosts.txt
+12,088
+2020年6月19日 14:02
+
+MalwareDomainList.com Hosts List
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+1,105
+2020年6月19日 14:02
+
+StevenBlack
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
+83,056
+2020年6月19日 14:03
+
+E7KMbb
+https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
+49,350
+2020年6月19日 14:04
+
+adg-kall
+https://www.kbsml.com/adblock/adguard/adg-kall.txt
+41,905
+2020年6月19日 14:04
+
+malwaredomains_full
+https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
+26,853
+2020年6月19日 14:04
+
+GoodbyeAds
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+84,372
+2020年6月19日 14:06
+
+hblock.molinero.dev
+https://hblock.molinero.dev/hosts
+264,349
+2020年6月19日 14:08
+
+someonewhocares.org
+https://someonewhocares.org/hosts/hosts
+14,463
+2020年6月19日 14:08
+
+
+DNS允许清单
+来自DNS允许列表的域将被允许，即使它们位于任意阻止列表中也是如此
+AdGuard Home 可以解析基础的 adblock 规则和 Hosts 语法。
+
+anudeepND
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
+194
+2020年6月19日 10:42
+
+Licolnlee's Whitelist
+https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt
+182
+2020年6月19日 10:46
+
+Neodevhost
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist
+8
+2020年6月19日 13:56
+
+Yhosts
+https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt
+193
+2020年6月19日 13:58
+ 
