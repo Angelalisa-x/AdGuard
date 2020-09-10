@@ -15,12 +15,6 @@
 ||*livewebbs2.msstatic.com
 ||*ylog.huya.com
 ||*business.msstatic.com
-||*sta-op.douyucdn.cn
-||*staticlive.douyucdn.cn
-||*gfs-op.douyucdn.cn
-||*va.videojj.com
-||*apic.douyucdn.cn
-||*res.douyucdn.cn
 ||*adstatic.peopleapp.
 ||*pgdt.gtimg.cn
 ||*gdmf.apple.com
